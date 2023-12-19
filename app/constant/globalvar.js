@@ -1,0 +1,23 @@
+
+global.userexist = "User already exists"
+global.userregistred = 'User Registred Successfully'
+global.somethingwent = 'something went wrong'
+global.userlogged   = 'User login successfully'
+global.credent  =  'credentials not correct'
+global.usernot = "User not found"
+global.username = "user name is required"
+global.password = "password is required"
+global.credentials = "All credentials required"
+global.updated ="Details updated Sucessfully"
+global.useridrequired = "User id required"
+global.noToken ="Token Required"
+global.unauthorized ="unauthorized user"
+global.adminRole ="Unauthorized user"
+global.usernot  = "User not found"
+global.userresult = "User Details"
+global.userRole = ""
+global.detailssaved ="sucessfully saved"
+global.categoryexist="category exist"
+global.categoryadd ="category saved"
+global.category ="All categories details"
+global.categorynot ="categories not found"
